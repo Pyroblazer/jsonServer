@@ -6,28 +6,28 @@
                 "name": "Bruschetta",
                 "description": "Toasted bread topped with fresh tomatoes, garlic, basil, and olive oil.",
                 "price": 8.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1iRYyIiPRUeD3aB9LQyrlNKftmav00dGz=w2560-h1321-iv1"
+                "imgurl": "https://iili.io/HvkCi6F.jpg"
             },
             {
                 "id": "861edd3e-e282-4c86-92c0-a7bce756961d",
                 "name": "Calamari",
                 "description": "Lightly battered squid served with marinara sauce.",
                 "price": 12.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1hf-rkhyBlyrQDvuOqZytgccyao_Ru7cG=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/HvkCQaa.jpg"
             },
             {
                 "id": "daa78332-02e3-49c0-9747-52752b9c499e",
                 "name": "Mozzarella Caprese",
                 "description": "Fresh mozzarella, sliced tomatoes, and basil leaves drizzled with balsamic glaze.",
                 "price": 11.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1WLNELrjnnZTJM0yfdr0ybHdHvCHpxuTl=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/HvkCbuR.jpg"
             },
             {
                 "id": "86c4ee21-605b-4fc0-bd0f-a07d2bfe576f",
                 "name": "Garlic Bread",
                 "description": "Toasted bread rubbed with garlic and drizzled with olive oil.",
                 "price": 6.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1iRYyIiPRUeD3aB9LQyrlNKftmav00dGz=w2560-h1321-iv1"
+                "imgurl": "https://iili.io/HvkCmjp.jpg"
             }
         ],
         "entrees": [
@@ -36,35 +36,35 @@
                 "name": "Spaghetti and Meatballs",
                 "description": "Classic Italian dish with homemade meatballs in tomato sauce.",
                 "price": 16.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1S8TzdwZGd1i4HAavcis_lTEYC-xzWo0O=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/HvkoqUg.jpg"
             },
             {
                 "id": "a48f5920-09a8-459f-a68c-6ce729b208a4",
                 "name": "Grilled Salmon",
                 "description": "Fresh salmon fillet seasoned and grilled to perfection.",
                 "price": 22.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1MkEjLF8kfPqt111A2fnwNspfjcgrj6-N=w1951-h1321-iv1"
+                "imgurl": "https://iili.io/HvknonS.jpg"
             },
             {
                 "id": "232e9290-f491-42cf-a895-91b51fc96373",
                 "name": "Chicken Parmesan",
                 "description": "Breaded chicken breast topped with marinara sauce and melted mozzarella cheese, served with a side of broccoli.",
                 "price": 18.99,
-                "imgurl": "https://lh3.google.com/u/0/d/107R23C_r-BASXd77QxPN3jbS1joiZiRE=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/HvkCL3g.jpg"
             },
             {
                 "id": "3106e481-df8f-4202-a199-dac39f95b279",
                 "name": "Shrimp Scampi",
                 "description": "Jumbo shrimp sautéed with garlic, lemon, and white wine, served over linguine.",
                 "price": 21.99,
-                "imgurl": "https://lh3.google.com/u/0/d/17g4i4hW3IJgZhmGOO2cv7E_RHADFNsaG=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/HvknhAv.jpg"
             },
             {
                 "id": "5cc7326f-f01a-4993-89c5-e3dc84a981ae",
                 "name": "Penne Pesto",
                 "description": "Penne pasta in a creamy pesto sauce with roasted pine nuts and parmesan cheese.",
                 "price": 15.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1Ilq80R11iy8cyVIjw1WRzRpfVLMrCEur=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/HvknkPt.jpg"
             }
         ],
         "desserts": [
@@ -73,35 +73,35 @@
                 "name": "Tiramisu",
                 "description": "Italian dessert made with layers of espresso-dipped ladyfingers and creamy mascarpone cheese.",
                 "price": 7.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1rwdfCCzhl60mSxuO_00TRVSMcYmm7eJ9=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/Hvkon5J.jpg"
             },
             {
                 "id": "6e9d056c-0ae0-446e-a2d6-45554fa188c2",
                 "name": "Chocolate Cake",
                 "description": "Moist and rich chocolate cake topped with chocolate ganache.",
                 "price": 6.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1Z0E-raMllRxD7Pq2cESmjHkageUOs6tj=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/Hvkn9nI.jpg"
             },
             {
                 "id": "65621907-e150-45a8-8181-761ef07b2b71",
-                "name": "New York Style Cheesecake",
+                "name": "New York Style Strawberry Cheesecake",
                 "description": "Creamy and rich cheesecake with a graham cracker crust, topped with fresh strawberries.",
                 "price": 8.99,
-                "imgurl": "https://lh3.google.com/u/0/d/17h4Ma-fVp1MNVfaNhATszNMz15sVJzmR=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/HvkoCJa.jpg"
             },
             {
                 "id": "02d6cb17-0111-4b20-adb1-83592ca5f240",
                 "name": "Cannoli",
                 "description": "Traditional Italian pastry filled with sweet ricotta cheese and chocolate chips.",
                 "price": 5.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1GJsSxPURDT5Fqc2tfzLw4mGP0EMQF674=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/HvkCPG1.jpg"
             },
             {
                 "id": "d05c9a8f-a925-4cf6-b760-087a1f3db8f5",
                 "name": "Vanilla Gelato",
                 "description": "Italian-style ice cream made with real vanilla bean.",
                 "price": 4.99,
-                "imgurl": "https://lh3.google.com/u/0/d/1xEnHO9OITfdTOlGI78QbPL15iRoy4Rbo=w1448-h1321-iv1"
+                "imgurl": "https://iili.io/HvknQi7.jpg"
             }
         ]
     }

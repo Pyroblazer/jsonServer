@@ -110,21 +110,21 @@
                 "name": "Chardonnay",
                 "description": "Dry white wine from the Burgundy region of France.",
                 "price": 26.99,
-                "imgUrl": "https://iili.io/HvD9ARS.jpg"
+                "imgurl": "https://iili.io/HvD9ARS.jpg"
             },
             {
                 "id": "49c37569-1747-45aa-99fb-6f82d7b5a968",
                 "name": "Chianti Classico",
                 "description": "Dry red wine from the Chianti region of Tuscany, Italy.",
                 "price": 29.99,
-                "imgUrl": "https://iili.io/HvD9RO7.jpg"
+                "imgurl": "https://iili.io/HvD9RO7.jpg"
             },
             {
                 "id": "41a8008d-33d5-4257-9d06-1ab4cee34742",
                 "name": "San Pellegrino Sparkling Water",
                 "description": "Italian mineral water with fine bubbles.",
                 "price": 3.99,
-                "imgUrl": "https://iili.io/HvD95b9.jpg"
+                "imgurl": "https://iili.io/HvD95b9.jpg"
             }
         ]
     }
